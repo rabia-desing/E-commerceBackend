@@ -18,3 +18,9 @@ NPM RUN SEED
 
 NPM RUN START
 
+## Screed Recordings
+
+
+
+https://user-images.githubusercontent.com/114849473/213943907-eb209b08-5dbf-4d22-81e4-273857c94292.mp4
+
